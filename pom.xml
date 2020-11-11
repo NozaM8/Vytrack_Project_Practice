@@ -30,7 +30,7 @@
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
                     <includes>
-                        <include>**/CucumberRunner.java</include>
+                        <include>**/Cukes_Runner.java</include>
                     </includes>
                 </configuration>
             </plugin>
